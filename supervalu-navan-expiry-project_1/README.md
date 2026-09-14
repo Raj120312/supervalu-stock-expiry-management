@@ -64,11 +64,6 @@ that gets picked up instead.
    - *Reorder Suggestions* — flags products with low days-of-cover based
      on current stock and recent sales velocity.
 
-4. **Daily alert script** (`04_daily_alert.py`) — a Python script that
-   queries the same live snapshot data the dashboards use, and prints
-   plus saves a dated report of every Amber/Red batch, grouped by
-   category, with suggested discounts and euro value at risk — the kind
-   of morning checklist a manager could actually run and act on.
 
 ## Key design decisions
 
