@@ -1,4 +1,4 @@
-# SuperValu Navan — Retail Stock Expiry Management
+# SuperValu Navan - Retail Stock Expiry Management
 
 A data analytics portfolio project modeling and solving a real problem from
 my part-time job as a shop floor assistant at SuperValu Navan: stock
@@ -14,8 +14,8 @@ through a set of Tableau dashboards and a daily alert script.
 ## Problem
 
 Store staff are supposed to always sell the oldest-expiring batch of a
-product first. In practice this doesn't always happen — a newer batch
-gets picked up while an older one still has stock — which quietly drives
+product first. In practice this doesn't always happen - a newer batch
+gets picked up while an older one still has stock - which quietly drives
 up waste. There was no way to measure how often this was actually
 happening, or to systematically catch stock before it expired.
 
@@ -32,7 +32,6 @@ that gets picked up instead.
 ## Tech stack
 
 - **PostgreSQL** — schema design, views, window functions
-- **Python** — synthetic dataset generation, daily alert script
 - **Tableau** — dashboards
 
 ## Project components
