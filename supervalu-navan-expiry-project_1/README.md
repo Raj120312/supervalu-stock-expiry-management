@@ -85,3 +85,8 @@ that gets picked up instead.
   scoped out to keep the project focused and fully explainable.
 - A Claude API-generated weekly narrative insight report summarizing
   trends in plain English.
+
+<img width="1362" height="770" alt="12" src="https://github.com/user-attachments/assets/e5925430-1c76-4c8b-ba96-6bda18f89ac6" />
+<img width="1357" height="762" alt="11" src="https://github.com/user-attachments/assets/5f2e7398-5093-4afa-aa29-f5867ab72e89" />
+<img width="1916" height="955" alt="14" src="https://github.com/user-attachments/assets/c9a5d908-75e1-4bd4-8741-657a4f310256" />
+<img width="1360" height="796" alt="13" src="https://github.com/user-attachments/assets/c81e91e4-97e6-47c6-943a-b49c4bf4caeb" />
